@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hey!! 
+
+## Who am I?
+
+Young developer looking to run in the coding world
+
+Love GNU/linux and open source.
+
+Started with Python and currently interested in C++ and Rust
+
+## How to reach me?
+
+***kirozajdev@gmail.com***
 
 <!--
 **KirozaJ/kirozaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
