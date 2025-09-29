@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-Young developer looking to run in the coding world
+I'm a junior dev trying to get some experience :D
 
 Love GNU/linux and open source.
 
