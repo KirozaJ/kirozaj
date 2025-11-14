@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-I'm a junior dev trying to get some experience :D
+I'm a junior dev  :D
 
 Love GNU/linux and open source.
 
