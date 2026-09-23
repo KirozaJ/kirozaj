@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20José%20Urdaneta&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Experiences&descAlignY=51&descAlign=50"/>
 </div>
 
-### <div align="center">Frontend Developer 👨‍💻 | Design Enthusiast 🎨 | Purple Lover 💜</div>
+### <div align="center"> Developer </div>
 
 <br/>
 
